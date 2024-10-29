@@ -1,0 +1,6 @@
+[submodule "merge"]
+	path = merge
+	url = https://github.com/Alisher1119/merge
+[submodule "get"]
+	path = get
+	url = https://github.com/Alisher1119/get
